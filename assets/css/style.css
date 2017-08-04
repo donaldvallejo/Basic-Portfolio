@@ -68,9 +68,11 @@ p {
 }
 
 .myName {
+  padding-top: 20px;
   background-color: #4aaaa5;
   font-size: 40px;
-  height: 9%;
+  height: 69px;
+  top: 0;
   position: absolute;
 }
 
@@ -211,7 +213,7 @@ button {
 
 body {
   margin: 0;
-  padding: 0;    
+  padding: 0;
   background-color: #dedddd;
   background-image: url('/assets/images/background-copy.jpg');
   background-repeat: repeat;
